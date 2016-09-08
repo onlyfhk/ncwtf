@@ -171,7 +171,7 @@ body{
 	margin: 0;
 }
 .logo a{
-	height: 32px;
+	height: 51px;
 	display: block;
 	overflow: hidden;
 	text-indent: -9999px;
@@ -186,11 +186,11 @@ body{
 	color: #bbb;
 	padding-left: 10px;
 	position: relative;
-	top: 1px;
+	top: 10px;
 	border-left: 2px solid #eaeaea;
 	margin-left: 10px;
 	/*overflow: hidden;*/
-	height: 30px;
+	height: 35px;
 }
 
 

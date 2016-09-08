@@ -7,6 +7,7 @@ public class Index extends Controller{
 	public static void ncwtfIndex(){
 		render();
 	}
+	
 	public static void index(){
 		render();
 	}

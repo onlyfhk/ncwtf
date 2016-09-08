@@ -1,0 +1,1 @@
+document.write("EM_AD插件没有开启!")

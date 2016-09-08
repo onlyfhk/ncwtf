@@ -12,4 +12,8 @@ public class Index extends Controller{
 		render();
 	}
 	
+	public static void ncwtf(){
+		render();
+	}
+	
 }

@@ -5,6 +5,7 @@
 # Home page
 GET     /                                       ncwtf.index.Index.ncwtfIndex
 GET     /index                                  ncwtf.index.Index.index
+GET		/ncwtf									ncwtf.index.Index.ncwtf
 
 # Ignore favicon requests
 GET     /favicon.ico                            404
